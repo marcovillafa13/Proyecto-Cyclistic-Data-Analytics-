@@ -1,4 +1,8 @@
 # 🚴 Proyecto: Análisis de Usuarios Cyclistic — Conversión a Membresías Anuales
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Cleaning-green)
+![Analytics](https://img.shields.io/badge/Data-Analytics-blue)
+
 ## 📊 Descripción
 
 Proyecto de análisis de datos enfocado en comprender las diferencias de uso entre ciclistas ocasionales y miembros anuales de Cyclistic, una empresa de bicicletas compartidas en Chicago.
