@@ -1,11 +1,11 @@
 # 🚴 Proyecto: Análisis de Usuarios Cyclistic — Conversión a Membresías Anuales
-📊 Descripción
+## 📊 Descripción
 
 Proyecto de análisis de datos enfocado en comprender las diferencias de uso entre ciclistas ocasionales y miembros anuales de Cyclistic, una empresa de bicicletas compartidas en Chicago.
 
 Objetivo: identificar patrones de comportamiento para diseñar estrategias que aumenten las membresías anuales.
 
-🎯 Contexto
+## 🎯 Contexto
 
 Tipo: Proyecto de análisis de datos (caso de negocio)
 Rol: Analista de datos junior – Marketing Analytics
@@ -20,7 +20,7 @@ Documentación del análisis
 
 Estado: ✅ Completado
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 Google Sheets (limpieza, transformación y cálculos)
 
@@ -30,7 +30,7 @@ Excel / CSV (fuentes de datos)
 
 Google Slides / PowerPoint (presentación final)
 
-📈 Características del Dashboard
+## 📈 Características del Dashboard
 📊 Página principal — Comportamiento de usuarios
 
 Visualizaciones clave:
@@ -43,7 +43,7 @@ Cantidad de viajes por tipo de usuario
 
 Objetivo: comparar patrones entre casuales y miembros.
 
-📁 Fuentes de Datos
+## 📁 Fuentes de Datos
 
 Datos históricos de viajes de Cyclistic (3 meses de muestra).
 
@@ -70,7 +70,7 @@ end_lat / end_lng
 
 member_casual
 
-🧹 Limpieza y Transformación de Datos
+## 🧹 Limpieza y Transformación de Datos
 
 Eliminación de registros con valores faltantes
 
@@ -86,14 +86,14 @@ Conversión de formatos de fecha y hora
 
 Validación de valores inconsistentes
 
-🔍 Insights Clave
+## 🔍 Insights Clave
 
 ✔ Los ciclistas ocasionales realizan viajes significativamente más largos
 ✔ Los miembros anuales viajan menos tiempo pero con mayor frecuencia
 ✔ El uso casual se concentra en fines de semana
 ✔ El uso de miembros es constante durante días laborales
 
-🚀 Recomendaciones Estratégicas
+## 🚀 Recomendaciones Estratégicas
 
 Promociones de membresía durante fines de semana
 
@@ -101,21 +101,7 @@ Comunicación clara del ahorro frente al uso por viaje
 
 Ofertas personalizadas luego de viajes largos de usuarios casuales
 
-📂 Estructura del Repositorio
-cyclistic-analysis/
-├── dashboard/
-│   └── cyclistic-dashboard.pbix
-├── presentation/
-│   └── cyclistic-analysis.pptx
-├── data/
-│   ├── rides_jan.csv
-│   ├── rides_feb.csv
-│   └── rides_mar.csv
-├── screenshots/
-│   └── dashboard-preview.png
-└── README.md
-
-📚 Aprendizajes
+## 📚 Aprendizajes
 
 Limpieza de grandes volúmenes de datos en Google Sheets
 
