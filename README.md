@@ -37,6 +37,8 @@ Google Slides / PowerPoint (presentación final)
 ## 📈 Características del Dashboard
 📊 Página principal — Comportamiento de usuarios
 
+![Dashboard](screenshots/dashboard.png)
+
 Visualizaciones clave:
 
 Duración promedio de viaje por tipo de usuario
